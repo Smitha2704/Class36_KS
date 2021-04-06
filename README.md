@@ -1,1 +1,2 @@
-# Class36_KS
+# synchronousBallMovement
+Ball moving synchronously
